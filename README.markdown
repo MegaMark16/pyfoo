@@ -1,4 +1,4 @@
-Pyfoo is a Python wrapper for the Wufoo API.
+Pyfoo is a Python wrapper for the Wufoo API. 
 
 You can use the wrapper with either an API Key or an email address, password, and integration key.
 
